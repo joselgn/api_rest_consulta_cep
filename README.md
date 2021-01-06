@@ -1,1 +1,1 @@
-# api_rest_consulta_cep
+# API padrão REST para consulta de CEP
